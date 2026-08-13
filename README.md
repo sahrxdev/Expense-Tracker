@@ -1,7 +1,6 @@
 # Expense Tracker App
 
-A modern Expense Tracker built using **HTML, CSS, and JavaScript** with multi-currency wallet support and local storage persistence.
-
+A modern Expense Tracker built using **HTML, CSS, and JavaScript**
 ---
 
 ##Features
